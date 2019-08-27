@@ -1,6 +1,6 @@
-#Pi Calculator
+# Pi Calculator
 
-##Summary
+## Summary
 This calculator is programmed in Java to display digits of pi.
 
 It is a CLI app, and accepts one argument:
