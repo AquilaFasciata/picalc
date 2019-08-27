@@ -1,7 +1,7 @@
 import java.math.*;
 
 class mathHelpers {
-    public static double round(double value, int places) {
+    public static double roundDec(double value, int places) {
         if (places < 0) throw new IllegalArgumentException();
 
         BigDecimal bd = new BigDecimal(Double.toString(value));
